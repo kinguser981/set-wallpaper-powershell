@@ -1,3 +1,3 @@
 # set-wallpaper-powershell
 
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+PS>  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
