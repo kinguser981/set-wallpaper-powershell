@@ -1,3 +1,8 @@
 # set-wallpaper-powershell
+for windows 10 & 11 & server 2019 ...
 
-PS>  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+if didn't worked enter this command
+powershell
+```
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+```
